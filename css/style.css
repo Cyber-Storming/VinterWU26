@@ -1,4 +1,14 @@
 /* Här skrivs all din CSS */
 :root {
-    background-color: rgb(118, 222, 214);
+background-color: rgb(86, 0, 26);
+color: rgba(255, 107, 129, 1)
 }
+
+.bread {
+    font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, "Helvetica", Arial, sans-serif; 
+}
+
+.rubrik {
+    font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, "Times New Roman", serif;
+}
+
